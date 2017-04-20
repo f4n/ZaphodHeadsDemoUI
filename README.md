@@ -9,10 +9,13 @@ So you need a least two monitors to reproduce the problem.
 We have a Java UI with two separate windows. From the main window a second one is opened on a different monitor.
 X is configured to have a separate display id for each monitor (zaphodhead). This configuration worked quiet well for a couple
 of years on SLES11 machines with different NVidia cards and Java versions.
-With the same NVidia cards and the same Java version (but a newer X server version) it doesn't work an a CentOS or Fedora linux.
+With the same NVidia cards and the same Java version (but a newer X server version) it doesn't work on a CentOS or Fedora linux.
 The fonts on the second window seem to be transparent.
 
-IMG
+Main Window is working
+![main](https://raw.githubusercontent.com/f4n/ZaphodHeadsDemoUI/master/main.png)
+Second Window on different Monitor is broken (button fonts)
+![second](https://raw.githubusercontent.com/f4n/ZaphodHeadsDemoUI/master/secondScreen.png)
 
 
 ## What does the demo UI do
