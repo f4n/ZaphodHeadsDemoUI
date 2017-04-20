@@ -33,6 +33,11 @@ It first opens a window on the current screen. With a button "open" you can open
 * OS: 
   * Fedora 25
   * CentoOS 7
+* WindowManager:
+  * KDE
+  * Gnome
+  * OpenBox
+  * MVM
   
 ## Working with:
 * Java: 1.8.0_74, 1.8.0_121
@@ -42,6 +47,9 @@ It first opens a window on the current screen. With a button "open" you can open
 * X: 1.6.5
 * OS: 
   * SLES11 sp2
+* WindowManager:
+  * KDE
+  * MVM
   
 ## How to use
 
