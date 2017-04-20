@@ -22,7 +22,7 @@ Second Window on different Monitor is broken (button fonts)
 It first opens a window on the current screen. With a button "open" you can open a second window on a different screen (different than the current one)
 
 ## Reproducible with:
-* Java: 1.8.0_74, 1.8.0_121, 1.9ea
+* Java: 1.8.0_74, 1.8.0_121, 1.8.0_131, 1.9ea
 * GFX:
   * NVidia GTX 1050
   * NVidia Quadro M1000M, 375.39
