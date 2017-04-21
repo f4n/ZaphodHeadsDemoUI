@@ -72,7 +72,7 @@ java -cp target/DemoUI-0.0.1-SNAPSHOT.jar Main
 ## Configuration
 
 
-### Configuration NVidia 
+### NVidia 
 
 (generated with nvidia-settings, tested with both absolute FontPath and socket)
 
@@ -172,7 +172,7 @@ Section "Screen"
 EndSection
 
 ```
-### Configuration Intel 
+### Intel 
 
 (made by hand)
 
