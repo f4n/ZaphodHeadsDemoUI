@@ -50,6 +50,24 @@ It first opens a window on the current screen. With a button "open" you can open
 * WindowManager:
   * KDE
   * MVM
+  
+  
+## How to use
+
+
+### Using the jar in this repository
+
+```bash
+java -cp DemoUI-0.0.1-SNAPSHOT.jar Main
+```
+
+### Or build & run
+
+```bash
+mvn package
+java -cp target/DemoUI-0.0.1-SNAPSHOT.jar Main
+```
+
 
 ## Configuration
 
@@ -210,21 +228,4 @@ Section "Screen"
     EndSubSection
 EndSection
 
-```
-
-
-## How to use
-
-
-### Using the jar in this repository
-
-```bash
-java -cp DemoUI-0.0.1-SNAPSHOT.jar Main
-```
-
-### Or build & run
-
-```bash
-mvn package
-java -cp target/DemoUI-0.0.1-SNAPSHOT.jar Main
 ```
