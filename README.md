@@ -174,7 +174,6 @@ EndSection
 ```
 ### Intel 
 
-(made by hand)
 
 ```bash
 Section "ServerLayout"
